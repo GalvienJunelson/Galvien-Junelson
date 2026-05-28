@@ -65,4 +65,4 @@ IT & Management graduate from Tzu Chi University with a focus on full-stack web 
 |---|---|
 | Indonesian | Native |
 | English | C1 (EnglishScore) |
-| Chinese | A2 (TOCFL) |
+| Chinese | B1 (TOCFL) |
