@@ -1,68 +1,69 @@
-# Yusheng Xie (謝育昇)
+# 謝育昇（Yusheng Xie）
 
-📧 11143038@gms.tcu.edu.tw · 📱 0900592442
-
----
-
-## About
-
-IT & Management graduate from Tzu Chi University with a focus on full-stack web development and AI applications. I build things end-to-end — from frontend interfaces to backend systems — and have hands-on experience shipping real software used by actual users.
+📧 galvienj@gmail.com ｜ 📱 0900-592-442
 
 ---
 
-## Education
+## 個人簡介
 
-**Tzu Chi University** — B.S. Information Technology and Management
+畢業於慈濟大學資訊科技與管理學系，專注於全端網頁開發與人工智慧應用。具備從前端介面、後端系統到完整部署的開發能力，並擁有開發與維護實際投入使用之軟體系統的實務經驗。
+
+---
+
+## 學歷
+
+**慈濟大學** — 資訊科技與管理學系 學士  
 `2024 – 2026`
 
-**Tzu Chi University of Science and Technology** — Information Technology and Management
+**慈濟科技大學** — 資訊科技與管理系  
 `2022 – 2024`
 
 ---
 
-## Experience
+## 工作經歷
 
-**Part-time Staff — Computer Center, Tzu Chi University**
+**慈濟大學｜電算中心 工讀生**  
 `2023 – 2026`
 
-- Developed and maintained the university's student information system
-- Optimized school administrative information systems
+- 開發與維護校內學生資訊系統。
+- 優化校務行政資訊系統，提升系統效率與使用體驗。
 
 ---
 
-## Projects
+## 專案經驗
 
-**Exercise Pose Recognition System**
-`Python · OpenPose · AI`
+### 運動姿勢辨識系統
 
-- Built an AI application that detects whether users are performing exercises with correct form
-- Used OpenPose for human body pose estimation
-- Capstone project — completed end-to-end from design to deployment
+`Python · OpenPose · 人工智慧`
 
----
-
-## Skills
-
-| Area | Technologies |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | PHP |
-| AI / Data | Python, OpenPose |
-| Tools | Git |
+- 開發 AI 應用程式，辨識使用者運動姿勢是否正確。
+- 採用 OpenPose 進行人體姿態估測與骨架關鍵點辨識。
+- 畢業專題，獨立完成系統規劃、開發、測試與部署。
 
 ---
 
-## Certifications
+## 專業技能
+
+| 領域 | 技術 |
+|------|------|
+| 前端開發 | HTML、CSS、JavaScript |
+| 後端開發 | PHP |
+| AI／資料處理 | Python、OpenPose |
+| 開發工具 | Git |
+
+---
+
+## 證照
 
 - 🏅 Certiport ITS — Python
-- 🏅 Certiport ITS — HTML and CSS
+- 🏅 Certiport ITS — HTML & CSS
 
 ---
 
-## Languages
+## 語言能力
 
-| Language | Level |
-|---|---|
-| Indonesian | Native |
-| English | C1 (EnglishScore) |
-| Chinese | B1 (TOCFL) |
+| 語言 | 程度 |
+|------|------|
+| 印尼語 | 母語 |
+| 英文 | C1（EnglishScore） |
+| 中文 | B1（TOCFL） |
